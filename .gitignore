@@ -1,0 +1,9 @@
+data/
+*.pth
+*.pyc
+__pycache__/
+event.out*
+tfevents*
+logs/
+TFBoard/
+experiments/
