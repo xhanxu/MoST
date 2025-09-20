@@ -116,7 +116,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
 
 
 ## 😊 Acknowledgement
-We would like to thank the authors of [Monarch](https://github.com/HazyResearch/fly), [PointGPT](https://github.com/CGuangyan-BIT/PointGPT), and [Point-MAE](https://github.com/Pang-Yatian/Point-MAE) for their great works and repos.
+We would like to thank the authors of [Monarch](https://github.com/HazyResearch/fly), [PointGPT](https://github.com/CGuangyan-BIT/PointGPT), [Point-BERT](https://github.com/Julie-tang00/Point-BERT), and [Point-MAE](https://github.com/Pang-Yatian/Point-MAE) for their great works and repos.
 
 ## 😀 Contact
 If you have any questions or are looking for cooperation in related fields, please contact [Xu Han](https://xhanxu.github.io/) via xhanxu@hust.edu.cn. 
